@@ -43,6 +43,7 @@ import (
 const (
 	listenPort  = "5050"
 	usdCurrency = "USD"
+	AppVersion = "1.0.0"
 )
 
 var log *logrus.Logger
